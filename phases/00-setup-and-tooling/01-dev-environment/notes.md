@@ -6,3 +6,4 @@ sudo apt install unzip && curl -fsSL https://fnm.vercel.app/install | bash && so
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh && source ~/.bashrc && rustc --version && cargo --version
 
 uv pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+test line
